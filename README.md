@@ -1,6 +1,6 @@
 # Git-Class-2k18-19
 
-This repo is here for the purpose of learning and practicing git.
+This repo is here for the purpose of learning and practicing git and promoting open source.
 
 ## Things to do
 
